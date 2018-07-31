@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  ObjC_Localization
+
+  Created by wen-chi Chang on 2018/7/29.
+  Copyright © 2018年 wen-chi Chang. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "LangTest";
+"UILaunchStoryboardName" = "LaunchScreen";
